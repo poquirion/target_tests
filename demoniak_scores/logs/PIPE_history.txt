@@ -1,0 +1,15 @@
+****************************************
+Pipeline started on 01-Aug-2015 00:50:18
+user: , host: be214935ae52, system: unix
+****************************************
+01-Aug-2015 00:50:18 scores_resample_part           submitted (1 run / 0 fail / 0 done / 3 left)
+01-Aug-2015 00:50:18 scores_resample_part           completed (0 run / 0 fail / 1 done / 3 left)
+01-Aug-2015 00:50:18 scores_resample_mask           submitted (1 run / 0 fail / 1 done / 2 left)
+01-Aug-2015 00:50:19 scores_resample_mask           completed (0 run / 0 fail / 2 done / 2 left)
+01-Aug-2015 00:50:19 scores_subject1_session1_motor submitted (1 run / 0 fail / 2 done / 1 left)
+01-Aug-2015 00:50:21 scores_subject1_session1_motor completed (0 run / 0 fail / 3 done / 1 left)
+01-Aug-2015 00:50:21 scores_subject2_session1_motor submitted (1 run / 0 fail / 3 done / 0 left)
+01-Aug-2015 00:50:24 scores_subject2_session1_motor completed (0 run / 0 fail / 4 done / 0 left)
+*******************************************
+Pipeline terminated on 01-Aug-2015 00:50:24
+All jobs have been successfully completed.

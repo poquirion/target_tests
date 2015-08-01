@@ -1,5 +1,5 @@
 MNI Transform File
-%Tue Jul 14 16:48:27 2015>>> minctracc -clobber -xcorr -lsq9 -step 4 4 4 -simplex 2 -tol 0.004 -transformation /tmp/niak_bestlinreg.pl-RbHkJcoH/Sanat_subject1_nuc_nativet1_3.xfm -source_mask /tmp//niak_tmp_fp_t1_preprocess_subject1_513450768_anat_subject1t1_preprocess/anat_subject1_mask_native.mnc -model_mask /niak/targets/data_test_niak_mnc1//mni_icbm152_asym_09a_5mm/mni_icbm152_t1_tal_nlin_asym_09a_mask_5mm.mnc.gz /tmp/niak_bestlinreg.pl-RbHkJcoH/Sanat_subject1_nuc_nativet1_4_dxyz.mnc /tmp/niak_bestlinreg.pl-RbHkJcoH/Tmni_icbm152_t1_tal_nlin_asym_09a_5mm_4_dxyz.mnc /tmp/niak_bestlinreg.pl-RbHkJcoH/Sanat_subject1_nuc_nativet1_4.xfm
+%Sat Aug  1 00:42:47 2015>>> minctracc -clobber -xcorr -lsq9 -step 4 4 4 -simplex 2 -tol 0.004 -transformation /tmp/niak_bestlinreg.pl-P1d9apIS/Sanat_subject1_nuc_nativet1_3.xfm -source_mask /tmp//niak_tmp_fp_t1_preprocess_subject1_995748117_anat_subject1t1_preprocess/anat_subject1_mask_native.mnc -model_mask /home/poquirion/simexp/work/data_test_niak_mnc1//mni_icbm152_asym_09a_5mm/mni_icbm152_t1_tal_nlin_asym_09a_mask_5mm.mnc.gz /tmp/niak_bestlinreg.pl-P1d9apIS/Sanat_subject1_nuc_nativet1_4_dxyz.mnc /tmp/niak_bestlinreg.pl-P1d9apIS/Tmni_icbm152_t1_tal_nlin_asym_09a_5mm_4_dxyz.mnc /tmp/niak_bestlinreg.pl-P1d9apIS/Sanat_subject1_nuc_nativet1_4.xfm
 %(mni_autoreg 0.99.60)
 
 Transform_Type = Linear;
