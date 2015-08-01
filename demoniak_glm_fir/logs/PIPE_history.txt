@@ -1,90 +1,41 @@
-
-*****************************************
-The pipeline PIPE is now being processed.
-Started on 14-Jul-2015 16:54:38
-user: , host: be7e0bde09a7, system: unix
-*****************************************
-14-Jul-2015 16:54:38 networks_cambridge100           submitted (1 run / 0 fail / 0 done / 17 left)
-14-Jul-2015 16:54:38 networks_cambridge100           failed    (0 run / 1 fail / 0 done / 17 left)
-14-Jul-2015 16:54:38 networks_cambridge100bis        submitted (1 run / 1 fail / 0 done / 16 left)
-14-Jul-2015 16:54:39 networks_cambridge100bis        failed    (0 run / 2 fail / 0 done / 16 left)
-
-*********************************************
-The processing of the pipeline is terminated.
-See report below for job completion status.
-14-Jul-2015 16:54:39
-*********************************************
-The execution of the following jobs have failed :
-
-    networks_cambridge100 ; networks_cambridge100bis ; 
-
-More infos can be found in the individual log files. Use the following command to display these logs :
-
-    psom_pipeline_visu('/niak/targets/result/demoniak_glm_fir/logs/','log',JOB_NAME)
-
-The following jobs have not been processed due to a dependence on a failed job or the interruption of the pipeline manager :
-
-    fir_subject1a ; fir_subject1b ; fir_subject1c ; fir_subject1d ; fir_subject2a ; fir_subject2b ; fir_subject2c ; fir_subject2d ; glm_avg_fir ; glm_sub1_m_sub2 ; permutation_avg_fir_batch_1 ; permutation_sub1_m_sub2_batch_1 ; permutation_avg_fir_batch_2 ; permutation_sub1_m_sub2_batch_2 ; summary_findings ; test_glm_fir_demoniak ; 
-
-All jobs have been processed, but some jobs have failed.
-You may want to restart the pipeline latter if you managed to fix the problems.
-
-*****************************************
-The pipeline PIPE is now being processed.
-Started on 14-Jul-2015 17:10:38
-user: , host: dbad4349dbc4, system: unix
-*****************************************
-14-Jul-2015 17:10:38 networks_cambridge100           submitted (1 run / 0 fail / 0 done / 17 left)
-14-Jul-2015 17:10:38 networks_cambridge100           failed    (0 run / 1 fail / 0 done / 17 left)
-14-Jul-2015 17:10:38 networks_cambridge100bis        submitted (1 run / 1 fail / 0 done / 16 left)
-14-Jul-2015 17:10:39 networks_cambridge100bis        failed    (0 run / 2 fail / 0 done / 16 left)
-
-*********************************************
-The processing of the pipeline is terminated.
-See report below for job completion status.
-14-Jul-2015 17:10:39
-*********************************************
-The execution of the following jobs have failed :
-
-    networks_cambridge100 ; networks_cambridge100bis ; 
-
-More infos can be found in the individual log files. Use the following command to display these logs :
-
-    psom_pipeline_visu('/niak/targets/result/demoniak_glm_fir/logs/','log',JOB_NAME)
-
-The following jobs have not been processed due to a dependence on a failed job or the interruption of the pipeline manager :
-
-    fir_subject1a ; fir_subject1b ; fir_subject1c ; fir_subject1d ; fir_subject2a ; fir_subject2b ; fir_subject2c ; fir_subject2d ; glm_avg_fir ; glm_sub1_m_sub2 ; permutation_avg_fir_batch_1 ; permutation_sub1_m_sub2_batch_1 ; permutation_avg_fir_batch_2 ; permutation_sub1_m_sub2_batch_2 ; summary_findings ; test_glm_fir_demoniak ; 
-
-All jobs have been processed, but some jobs have failed.
-You may want to restart the pipeline latter if you managed to fix the problems.
-
-*****************************************
-The pipeline PIPE is now being processed.
-Started on 14-Jul-2015 17:20:03
-user: , host: 21eb53dd8f64, system: unix
-*****************************************
-14-Jul-2015 17:20:03 networks_cambridge100           submitted (1 run / 0 fail / 0 done / 17 left)
-14-Jul-2015 17:20:04 networks_cambridge100           failed    (0 run / 1 fail / 0 done / 17 left)
-14-Jul-2015 17:20:04 networks_cambridge100bis        submitted (1 run / 1 fail / 0 done / 16 left)
-14-Jul-2015 17:20:04 networks_cambridge100bis        failed    (0 run / 2 fail / 0 done / 16 left)
-
-*********************************************
-The processing of the pipeline is terminated.
-See report below for job completion status.
-14-Jul-2015 17:20:04
-*********************************************
-The execution of the following jobs have failed :
-
-    networks_cambridge100 ; networks_cambridge100bis ; 
-
-More infos can be found in the individual log files. Use the following command to display these logs :
-
-    psom_pipeline_visu('/niak/targets/result/demoniak_glm_fir/logs/','log',JOB_NAME)
-
-The following jobs have not been processed due to a dependence on a failed job or the interruption of the pipeline manager :
-
-    fir_subject1a ; fir_subject1b ; fir_subject1c ; fir_subject1d ; fir_subject2a ; fir_subject2b ; fir_subject2c ; fir_subject2d ; glm_avg_fir ; glm_sub1_m_sub2 ; permutation_avg_fir_batch_1 ; permutation_sub1_m_sub2_batch_1 ; permutation_avg_fir_batch_2 ; permutation_sub1_m_sub2_batch_2 ; summary_findings ; test_glm_fir_demoniak ; 
-
-All jobs have been processed, but some jobs have failed.
-You may want to restart the pipeline latter if you managed to fix the problems.
+****************************************
+Pipeline started on 01-Aug-2015 00:48:13
+user: , host: be214935ae52, system: unix
+****************************************
+01-Aug-2015 00:48:13 networks_cambridge100           submitted (1 run / 0 fail / 0 done / 16 left)
+01-Aug-2015 00:48:14 networks_cambridge100           completed (0 run / 0 fail / 1 done / 16 left)
+01-Aug-2015 00:48:14 networks_cambridge100bis        submitted (1 run / 0 fail / 1 done / 15 left)
+01-Aug-2015 00:48:14 networks_cambridge100bis        completed (0 run / 0 fail / 2 done / 15 left)
+01-Aug-2015 00:48:14 fir_subject1a                   submitted (1 run / 0 fail / 2 done / 14 left)
+01-Aug-2015 00:48:16 fir_subject1a                   completed (0 run / 0 fail / 3 done / 14 left)
+01-Aug-2015 00:48:16 fir_subject1b                   submitted (1 run / 0 fail / 3 done / 13 left)
+01-Aug-2015 00:48:17 fir_subject1b                   completed (0 run / 0 fail / 4 done / 13 left)
+01-Aug-2015 00:48:17 fir_subject1c                   submitted (1 run / 0 fail / 4 done / 12 left)
+01-Aug-2015 00:48:18 fir_subject1c                   completed (0 run / 0 fail / 5 done / 12 left)
+01-Aug-2015 00:48:18 fir_subject1d                   submitted (1 run / 0 fail / 5 done / 11 left)
+01-Aug-2015 00:48:19 fir_subject1d                   completed (0 run / 0 fail / 6 done / 11 left)
+01-Aug-2015 00:48:19 fir_subject2a                   submitted (1 run / 0 fail / 6 done / 10 left)
+01-Aug-2015 00:48:20 fir_subject2a                   completed (0 run / 0 fail / 7 done / 10 left)
+01-Aug-2015 00:48:20 fir_subject2b                   submitted (1 run / 0 fail / 7 done / 9 left)
+01-Aug-2015 00:48:21 fir_subject2b                   completed (0 run / 0 fail / 8 done / 9 left)
+01-Aug-2015 00:48:21 fir_subject2c                   submitted (1 run / 0 fail / 8 done / 8 left)
+01-Aug-2015 00:48:22 fir_subject2c                   completed (0 run / 0 fail / 9 done / 8 left)
+01-Aug-2015 00:48:22 fir_subject2d                   submitted (1 run / 0 fail / 9 done / 7 left)
+01-Aug-2015 00:48:23 fir_subject2d                   completed (0 run / 0 fail / 10 done / 7 left)
+01-Aug-2015 00:48:23 glm_avg_fir                     submitted (1 run / 0 fail / 10 done / 6 left)
+01-Aug-2015 00:48:25 glm_avg_fir                     completed (0 run / 0 fail / 11 done / 6 left)
+01-Aug-2015 00:48:25 glm_sub1_m_sub2                 submitted (1 run / 0 fail / 11 done / 5 left)
+01-Aug-2015 00:48:27 glm_sub1_m_sub2                 completed (0 run / 0 fail / 12 done / 5 left)
+01-Aug-2015 00:48:27 permutation_avg_fir_batch_1     submitted (1 run / 0 fail / 12 done / 4 left)
+01-Aug-2015 00:48:27 permutation_avg_fir_batch_1     completed (0 run / 0 fail / 13 done / 4 left)
+01-Aug-2015 00:48:27 permutation_sub1_m_sub2_batch_1 submitted (1 run / 0 fail / 13 done / 3 left)
+01-Aug-2015 00:48:28 permutation_sub1_m_sub2_batch_1 completed (0 run / 0 fail / 14 done / 3 left)
+01-Aug-2015 00:48:28 permutation_avg_fir_batch_2     submitted (1 run / 0 fail / 14 done / 2 left)
+01-Aug-2015 00:48:28 permutation_avg_fir_batch_2     completed (0 run / 0 fail / 15 done / 2 left)
+01-Aug-2015 00:48:28 permutation_sub1_m_sub2_batch_2 submitted (1 run / 0 fail / 15 done / 1 left)
+01-Aug-2015 00:48:28 permutation_sub1_m_sub2_batch_2 completed (0 run / 0 fail / 16 done / 1 left)
+01-Aug-2015 00:48:28 summary_findings                submitted (1 run / 0 fail / 16 done / 0 left)
+01-Aug-2015 00:48:28 summary_findings                completed (0 run / 0 fail / 17 done / 0 left)
+*******************************************
+Pipeline terminated on 01-Aug-2015 00:48:28
+All jobs have been successfully completed.
